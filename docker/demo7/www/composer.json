@@ -1,0 +1,14 @@
+{
+    "require": {
+        "bcosca/fatfree-core": "^3.6",
+        "gabordemooij/redbean": "dev-master",
+        "matthiasmullie/scrapbook": "1.4.6"
+    },
+    "scripts": {
+        "run" : ["php -S localhost:8080 -t ."]
+    },
+    "config": {
+        "process-timeout": 0
+    }
+
+}
